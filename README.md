@@ -15,7 +15,7 @@ This is a Simple App to learn the use of Fragments. It contains 5 fragments whic
 
 ### Sample No. 1
 
-<img src="https://github.com/alijawad1511/Simple_Calculator_Android/blob/master/images/App%20Design.jpg" width="250" />
+<img src="https://github.com/alijawad1511/Image_Fragments_Android/blob/master/images/Sample.jpg" width="250" />
 
 ## 📞 Contact me at:
 
